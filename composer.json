@@ -1,0 +1,31 @@
+{
+    "name": "gautardos/hash-db",
+    "description": "Base de données de hash et métadonnées organisées en fichiers CSV par catégories (films, séries, musiques, jeux, logiciels, etc.)",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/Gautardos/hash-db",
+    "authors": [
+        {
+            "name": "Gautardos",
+            "homepage": "https://github.com/Gautardos"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Gautardos/hash-db/issues"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "keywords": [
+        "hash-db",
+        "csv-database",
+        "metadata",
+        "media-database",
+        "roms",
+        "music",
+        "movies",
+        "games"
+    ],
+    "autoload": {
+        "files": []
+    }
+}
